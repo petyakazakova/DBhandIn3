@@ -1,0 +1,142 @@
+﻿.headertext {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-top: 3%;
+    margin-bottom: 1%;
+    color: #6CBCFD;
+}
+
+.centerAlign {
+    text-align: center;
+}
+
+.toptext {
+    font-family: Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+div.myMenuBar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+div.menu {
+    padding: 2px 0px 2px 8px;
+}
+
+    div.menu ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+        div.menu ul li a, div.menu ul li a:visited {
+            border-left: 5px solid #bbb;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 15px 25px;
+            text-decoration: none;
+            font-family: Helvetica, sans-serif;
+            font-size: 13px;
+            background: #242424;
+            width: 120px;
+            margin: 0 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.6px;
+        }
+
+
+            div.menu ul li a:hover {
+                background-color: black;
+                color: white;
+                text-decoration: none;
+                transition: 0.5s;
+            }
+
+            div.menu ul li a:active {
+                background-color: #6CBCFD;
+            }
+
+
+body {
+    background: #eeeeee;
+    font-family: Helvetica-Normal, sans-serif;
+}
+
+.mytable {
+    border-style: groove;
+    border-color: #6CBCFD;
+    background-color: white;
+    border-width: thin;
+    margin-left: 16%;
+}
+
+.myheader {
+    padding: 15px;
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: #134d85;
+    color: white;
+}
+
+.myitem {
+    border-style: solid;
+    border-width: thin;
+    border-color: #e0e0e0;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.button {
+    border-style: none;
+    background-color: #134d85;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 13px 7px;
+    cursor: pointer;
+}
+
+    .button:hover {
+        background: #0a2c4d;
+        transition: 0.5s;
+    }
+
+.repeater {
+    padding: 1% 12% 0 16%;
+    text-align: center;
+}
+
+.header-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 7% 1% 1%;
+    margin-top: -13px;
+    margin-left: 80px;
+}
+
+.loginform {
+}
+
+.repeater-form {
+}
+
+.label, .radioButtons {
+    font-family: Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #242424;
+}
+
+.radioButtons {
+    margin: 0 auto;
+}

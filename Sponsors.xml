@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<Sponsors>
+   <Sponsor>
+    <SponsorID>1</SponsorID>
+    <Name>Colgate Oral Care</Name>
+    <Website>http://www.colgate.co.uk/en/uk/oc/</Website>
+    <Picture>colgate.png</Picture>
+  </Sponsor>
+  <Sponsor>
+    <SponsorID>2</SponsorID>
+    <Name>Crest Toothpaste &amp; Oral Hygiene</Name>
+    <Website>https://crest.com/en-us</Website>
+    <Picture>crest.jpg</Picture>
+  </Sponsor>
+  <Sponsor>
+    <SponsorID>3</SponsorID>
+    <Name>Bioline Dental Implant Series</Name>
+    <Website>https://www.bioline.com/</Website>
+    <Picture>bioline.png</Picture>
+  </Sponsor>
+</Sponsors>
